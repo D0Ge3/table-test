@@ -1,5 +1,8 @@
+import React from 'react'
+import ReactVirtualizedTable from './components/Table/Table'
+
 const App = () => {
-  return (<div className="App">Test</div>)
+  return <ReactVirtualizedTable />
 }
 
 export default App

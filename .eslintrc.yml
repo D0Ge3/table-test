@@ -21,7 +21,6 @@ rules: {
   quotes: ["error", "single"],
   semi: ["error", "never"],
   react/prop-types: "off",
-  react/react-in-jsx-scope: "off",
   no-unused-vars: 1,
   no-case-declarations: 0,
   react-hooks/rules-of-hooks: "error",
